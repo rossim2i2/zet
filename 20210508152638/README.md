@@ -13,4 +13,3 @@ issues and mouse lag that were the deal breakers), I'll stick with Arch.
 People give it shit, but it's really not that difficult to install and,
 while it does take a bit of a higher skill level, once you have it
 setup, "it just works".
-
