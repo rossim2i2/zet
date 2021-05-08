@@ -2,7 +2,7 @@
 
 Now that I'm back on Qtile, I spent some time this morning making it
 look a little different. I updated the color scheme and added a
-[MRCO](michaelrossi.co) icon.
+[MRCO](https://michaelrossi.co) icon.
 
 I also spent some time looking at the `floating` layouts. It is annoying
 that you need to use the `super` key to move or resize a window, but it
