@@ -32,4 +32,6 @@ learn an entire companies background, culture and systems.
 > installed (either on metal or docker or wsl2). My second question will
 > be if they have an enterprise Github.
 
+Tags:
+
     #zettelkasten #work #projectideas
