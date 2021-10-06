@@ -1,7 +1,9 @@
 # M&A Integration Handbook - Notes
 
 **Mergers & Acquisitions Integration Handbook**
+
 Helping Companies Realize the Full Value of Acquisitions
+
 By Scott C. Whitaker
 
 ## Chapter 1 - Introduction
