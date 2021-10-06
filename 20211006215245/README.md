@@ -210,20 +210,15 @@ Diagnosing significant differences here will help by:
 Keep these things on your integration checklist:
 
 1. Integration Type and Level of Support
-
   * Determine the Integration Scope
   * Determine the integration Type
   * Estimate the amount of integration support required
-
 1. Complexity and Risk
-
   * Review due diligence documents and assess completeness
   * Complete stakeholder interviews to gauge integration complexity
   * Complete stakeholder interviews to gauge integration risk
   * Assess operating-style risk
 
 ## Chapter 3 - Making the Business Case for Integration
-
-
 
 
