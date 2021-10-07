@@ -221,4 +221,163 @@ Keep these things on your integration checklist:
 
 ## Chapter 3 - Making the Business Case for Integration
 
+### How to Improve Performance
+
+Motivation for M&A is to seek improved financial performance and
+shareholder value. Benefits include:
+
+* Synergy
+  * Cost Saving and Revenue Enhancement
+* Economy of Scale
+* Cross-Selling
+* Economy of Scope
+* Taxation
+  * Rarely the primary reason
+* Vertical Integration
+* Product and Service Diversification
+
+### Measurement of Acquisition Success
+
+* Cash flow
+* Quality of new products and services
+* Expansion into new markets
+* Revenue of the combined entity
+* Share price of the combined entity
+
+### The Most Complex Areas
+
+The following areas are typically the most difficult in any merger or
+acquisition
+
+* HR Integration
+* Salesforce Integration
+* IT Integration
+* Marketing Communications
+* Accounting and Finance
+* Most difficult of all is the integration of executive-level leadership
+
+Why do Mergers Fail?
+
+* Conflicting goals and strategies
+* Poor communication
+* Conflict, conflict, conflict
+  * Mainly referring to the new management teams not being able to get
+    along and resolve issues.
+* Disparate cultures
+
+**Culture clashes make employees anxious and miserable. This is one of
+the most important areas to stay on top of in your integration
+planning.**
+
+Post-acquisition integration support is often overlooked, underfunded,
+or both.
+
+* Organizational integration management should commence immediately
+  after day one to get a head of issues.
+* A wait-and-see attitude makes you reactive instead of proactive
+* Customers will only give about 100 days to iron out any post
+  acquisition issues
+
+### Making the Business Case for Integration Support
+
+Overall there is not a good track record.
+
+* Over 75 percent are either disappointing or failures
+* 50 percent experience losses of productivity and sales in the first
+  eight months
+* The majority of managers grade their company's efforts as average or
+  poor.
+* *Most integrations greatly exceed their time lines or are never
+  completed*
+* Less than 15 percent of deals produce the expected financial results,
+  and nearly 75 percent fail to earn their cost of capital
+* 60 percent create no shareholder value at all
+
+Lack of integration makes it worse.
+
+* More than 50 percent of all integration efforts fail to deliver their
+  targeted value.
+* The majority of the shortfall is attributable to inadequate merger
+  integration planning and execution.
+* *Many companies have become good at doing deals, but integration
+  planning and execution is where value is preserved or eroded.*
+
+Remember the following:
+
+* It's not business as usual
+* It's difficult, complex, risky, and often politically charged
+* It requires a good plan and a rigorous process, along with some strong
+  project management skills to keep things on track
+* Sensitivity to the human issue is also required, along with being able
+  to identify and escalate unforeseen issues quickly.
+
+Poor integration planning can lead to:
+
+* Too much focus on getting the deal closed instead of making the deal
+  work
+* Too little focus on operational, cultural, strategic, and
+  organizational assessment
+* Over reliance on process and tools and avoidance of the tough issues
+  such as culture and politics.
+* No pre-close planning, which puts an integration in catch-up mode
+  right from the start.
+* Process driven by activity rather than informed by value preservation,
+  synergy realization, and value creation.
+* There is no plan for assigning accountability and tracking for
+  synergy.
+
+These pitfalls happen for a number of reasons:
+
+* Shortchanging the integration effort
+* Lack of appreciation for integration expertise
+* Lack of executive "air cover"
+* Overoptimistic benefit realization expectations
+
+**An acquisition gives you the potential for creating value in the
+combination, but the business benefits are delivered only in the
+actual integration.**
+
+Some of the most common poor integration-planning scenarios are:
+
+* Failure to achieve all of the strategic advantages that prompted the
+  sponsors to make the deal in the first place, thus wasting the
+  resources that have been devoted to the entire acquisition process.
+* Integration-execution starts that are sloppy and/or inefficient,
+  making it difficult to undo the damage that results.
+* A quickly moving competitor who takes advantage of the new
+  organization's inability to respond as a cohesive, well-controlled
+  entity.
+* *Burnout of the best talent int eh newly merged company from being
+  woefully overloaded by the integration distractions.*
+
+```
+See Exhibit 3.7 for a nice visual on the Integration Challenge
+```
+
+### Integration Success Factors
+
+Seven common denominators of integration success:
+
+* Communication
+* Establishment of a strong executive management team
+* Retention of key customers
+* Establishment of a shared vision of the future
+* Retention of key employees
+* Integration of cultures
+* Integration of products and services
+
+### Chapter Checklist
+
+Keep these things on your integration checklist:
+
+* The business rational and justification for an integration
+* The most common measures of integration success and what integration
+  areas are most complex
+* Why integrations underperform or fail.
+* How to make the business case to get integration support
+* The factors for successful integrations
+
+## Chapter 4 - An Introduction to Integration Planning
+
+
 
