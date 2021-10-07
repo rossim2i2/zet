@@ -379,5 +379,80 @@ Keep these things on your integration checklist:
 
 ## Chapter 4 - An Introduction to Integration Planning
 
+There are five phases of the integration life cycle.
+
+* Pre-Planning
+* Integration Due Diligence
+* Integration Office Planning
+* Execution
+* End State or Wrap-up
+
+### Integration Timing
+
+While planing and integration should be done as quickly as possible,
+there are some things that take longer. Factors to consider:
+
+* Operations Consolidations
+* Pending Acquisitions
+* Information Systems
+
+### Integration and Business Planning
+
+It is always prudent to establish an operating vision to guide and shape
+your planning efforts. If you sense the new business strategy lacks
+refinement or definition, push back until you get it (if you have the
+skills, jump in and help formulate it).
+
+### Vision and Strategy
+
+Key areas that must be well-defined before the integration work gets
+under way in earnest:
+
+* Full understanding of the business models of both the new and acquired
+  companies
+* Senior executive alignment in both companies
+* The role of boards and sponsoring organizations in governance
+* Operating model principles, as well as functional operating models
+  consistent with the overall operating model
+* The strategy for the transaction and integration
+
+### Delivering Value (and Not Losing Any)
+
+Here are some of the top areas where integration leaders must contribute
+to the bottom line:
+
+* Delivery and implementation of the business plan
+* Identification and delivery of synergy plan
+* Attainment of quick-win cost-reduction and revenue-enhancement
+  initiatives
+* A framework for benefit tracking
+
+### Managing the Change, People, and Potential Business Disruption
+
+Integrations by nature are one of the most disruptive business events.
+The people side must be factored into your planning:
+
+* A retention plan for top talent and/or sales force employees.
+* A customer retention plan.
+* Organization design, people selection, and timing for the completed
+  organization
+* *Clear reporting lines.* Avoid vague or undefined reporting
+  relationships, which are a common quick fix in integration that
+  seldom work.
+* A short-term IMO and supporting resources
+
+### Chapter Checklist
+
+Keep these things on your integration checklist:
+
+* Break down your integration into manageable phases
+* Create a timing parameter for each phase after you have considered
+  mitigating factors such as operations considerations, IT, and any
+  additional acquisition activity your company may be considering.
+* Make sure the business strategy is articulated in a manner that can
+  inform and enhance your integration planning.
+* Evaluate the need for additional integration resources to support your
+  activities.
+
 
 
