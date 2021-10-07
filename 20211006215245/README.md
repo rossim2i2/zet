@@ -454,5 +454,99 @@ Keep these things on your integration checklist:
 * Evaluate the need for additional integration resources to support your
   activities.
 
+## Chapter 5 - The Pre-Planning Phase
+
+This phase should begin as soon as a deal is imminent and a target
+closing date has been set.
+
+### Key Activities
+
+* Determining Integration Type
+* Stress Testing and Synergy Assumptions
+  * If you have access to the deal information, you can provide feedback
+    that can be considered in its terms:
+    * Timing
+    * Integration Support
+    * Synergy Realities
+    * Estimated Closing Date
+
+### Reviewing the Planning Documents
+
+Ensure you have access to due diligence documents. Here are some things
+to look for:
+
+* Labor (Unions)
+* Employee Data
+* Store and Plant Data (Not applicable for us)
+* Stakeholder Communities or Audiences
+
+### Assessing Potential Challenge Areas
+
+Typical hot spots to consider and questions to ask as you prepare:
+
+* Effective Plan Management Governance
+  * What is the right governance structure for the integration plan you
+    are implementing?
+  * Do you have the capabilities and resources required to execute your
+    plan well?
+  * Are you prepared to implement your integration plan based on the
+    expected day-one timing?
+* Delivering Value
+  * How can value be delivered with the challenges you are forecasting
+    in terms of people, culture, and continuing business?
+  * How can you mitigate adverse disruptions in day-to-day operations
+    during integration?
+  * Are your synergy targets realistic? Is the collective buy-in from
+    senior management attainable?
+  * What changes may be necessary in the operating model to ensure a
+    successful integration?
+  * Is the timing for synergy realization realistic?
+* Establishing the Right Level of Integration
+  * What is the right level of integration to deliver value and attain
+    business objectives?
+  * What is the recommended pace and timetable for your integration? Is
+    it too short or too long when weighed with other considerations? Are
+    there integration decisions that have to be delayed for some reason?
+  * Do you have the right level of resources (internal and external) to
+    manage the integration activity?
+* Culture in a Business Environment
+  * What are the most prevalent cultural differences between the two
+    companies that are integrating? What might happen if the cultural
+    differences are not addressed?
+  * How much cultural integration work will be required as part of the
+    integration's planning and execution?
+  * How are you going to manage the sometimes conflicting needs of all
+    the stakeholders?
+  * *How will you ensure that communication is frequent and relevant and
+    adds value to all the stakeholder audiences?*
+  * What are the normal pressures of the integration on the culture's
+    day-to-day operations?
+  * What potentially adverse or disruptive events could threaten normal
+    operations during the integration?
+  * Are there any political or environmental issues that could distract
+    from the integration planning and execution?
+
+A few things that make up an organization's cultural DNA are:
+
+* Behavior
+* Functions
+* Rules
+* Organizational Structure
+* Symbols
+* History
+* Traditions
+
+### Chapter Checklist
+
+Keep these things on your integration checklist:
+
+* Determine the integration type
+* Do some stress testing and be aware of synergy assumptions
+* Make sure to review the planning documents
+* Assess potential challenge areas
+* Assess the kinds of cultural changes that are required by your
+  integration
+
+## Chapter 6 - The Importance of Due Diligence
 
 
