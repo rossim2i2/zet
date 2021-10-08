@@ -549,4 +549,124 @@ Keep these things on your integration checklist:
 
 ## Chapter 6 - The Importance of Due Diligence
 
+Integration leaders need to be highly engaged and preparing for the deal
+to close in anticipation of the integration's official starting date.
+
+Key goals in good data collection include:
+
+* Understanding the key aspects of the target company's organization,
+  governance, and business processes
+* Collecting inputs to support the development of the initial
+  integration plan
+* Mitigating duplicate data requests to a target company and allowing
+  the due diligence team to stay focused on the aspects of a deal's
+  closing
+
+### Due Diligence Documents List
+
+* Corporate Books and Records
+  * Charter and bylaws
+  * Minutes of meetings and unanimous written consent
+  * Officers' and directors' questionnaires
+  * Shareholder records and reports
+  * Qualifications and registrations
+* Financial Information
+  * Financial statements
+  * Business plans
+    * Copies of business or strategic plans
+    * Current market strategies that highlight marked and brand
+      position, distinctive competencies, selling capabilities, service,
+      and overall competitive position.
+    * Visions for growth
+  * Tax materials
+  * Indebtedness records
+  * Miscellaneous
+    * Schedules of current notes payable and receivable, intercompany
+      advances, and descriptions of the cash management system.
+    * Descriptions and lists of current reserves
+    * Descriptions or revenue and cost recognition policies
+    * Breakdowns of selling, distribution, marketing, and administrative
+      expenses
+    * Explanations of foreign exchange accounting policies
+    * Information regarding any indebtedness by the directors and
+      senior officers
+    * Cost of sales breakdowns
+* Employee Materials
+  * Agreements
+  * Benefit plans
+  * Organizational Information
+* Contingent Liabilities
+  * Litigation
+  * Regulatory compliance
+* Contracts, Agreements, and Other Arrangements
+  * Those not found in the ordinary course of business
+    * Partnership agreements
+    * Joint venture agreements
+    * Contracts relating to material business acquisitions or
+      dispositions (by transfer of capital stock or assets), including
+      any separate tax or environmental agreements.
+    * Stand-still agreements
+    * Confidentiality and trade-secret agreements
+    * Agreements limiting the ability to compete with any other person
+      or to engage in any line of business
+    * Corporate transactions with managers, directors, or affiliates
+    * Agreements to provide goods or services at below cost (other than
+      promotional arrangements in the ordinary course of business)
+    * Indemnification agreements for directors and officers
+    * Other existing or pending material contracts not in the ordinary
+      course of business
+    * Any material correspondence related to the above
+    * Closing record books with respect to each transaction
+  * Those found in the ordinary course of business
+* Proprietary Rights
+  * Intellectual Property
+  * Patents
+  * Licenses
+  * Trademarks
+  * Trade names
+  * Domain names
+  * Copyrights
+  * Pending or threatened claims for infringement
+  * Suspected or alleged infringement by third parties
+* Plant, Property, and Equipment
+  * Real property
+  * Personal property
+  * Miscellaneous
+* Insurance
+  * Lists and descriptions of all material property, casualty,
+    liability, and other insurance policies
+  * Directors and officers liability insurance policies
+  * Description of present reserves for, and all potential claims with
+    respect to, any self-insurance
+  * Histories of all insured claims, including paid, reserved, and
+    related expense amounts (first dollar loss run)
+  * Loss runs for worker's compensation and general liability
+  * Loss histories for any self-insurance (first dollar loss run)
+  * Loss prevention or control recommendations made by insurers,
+    brokers, or consultants
+* Sales and Marketing
+  * Markets in which the company operates
+  * Type of customers
+  * Data on material clients
+* Miscellaneous/General Business
+  * Press releases
+  * Lists and descriptions of subsidiaries, joint ventures, and
+    partnerships
+  * Descriptions of future acquisition or disposition plans
+  * Descriptions of future restructuring plans
+  * Descriptions of the company's information management system,
+    including any planned future changes
+
+### Chapter Checklist
+
+Keep these things on your integration checklist:
+
+* Clarify your data collection goals in preplanning
+* Ask only for what you need
+* Always protect and safeguard due diligence documents and follow any
+  protocols that have been established to protect the security of this
+  information.
+
+## Chapter 7 - Establishing an Integration Management Office
+
 
