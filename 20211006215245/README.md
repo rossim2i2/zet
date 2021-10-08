@@ -669,4 +669,124 @@ Keep these things on your integration checklist:
 
 ## Chapter 7 - Establishing an Integration Management Office
 
+An IMO is a temporary project management office that does the following:
+
+* Drives the development of the overall integration plan, including all
+  of the integration projects, communications plan, and achievements of
+  synergy benefits.
+* Defines and manages your integration process, including functional
+  work-plan reviews, cross-functional collaborations, *issue management
+  plans*, and executive status updates.
+* Manages stakeholder communication, including lists of company
+  executives, functional resource owners, and acquired company
+  management roles.
+* Drives the pace of integration.
+* Tracks continual improvements, such as measuring and surveying various
+  areas and incorporating feedback into updated integration processes
+  and tools.
+
+Ideally IMO leaders will have physical office space at both companies
+for secure work and collaboration spaces for the duration of the
+integration. Most IMO locations can feel like a war room. Having a
+dedicates space allows you to collect a materials that have to remain
+confidential and secure.
+
+IMO leaders often become sounding boards for issues, problems, and
+concerns as employees at acquired companies are experiencing an intense
+level of change. At the same time, make sure the IMO office does not
+become the complaint department.
+
+Tips for addressing complaint issues:
+
+* Always have an open door, but remind people you are soliciting
+  feedback that can help to improve work streams or inform a specific
+  solution.
+* Avoid discussing personnel issues that are centered on the inability
+  of two or more people to work well together, because these complaints
+  are usually intended to influence personnel decisions. Personnel
+  decisions should be made without any bias and undocumented information
+  (i.e., hearsay).
+* If an employee raises a personnel issue that may suggest a conduct or
+  ethical violation, you should engage your HR contact immediately and
+  brief them on the issue.
+* Avoid discussions that are centered on an employee's opinion of the
+  company's strategy, executive leadership decisions, or any other
+  high-level issues. These may be interesting discussions, but the
+  employees should be focused on day-to-day operations so as not to
+  disrupt the business any more than it is already being disrupted.
+* If, despite all of these practices, you have an affected employee who
+  is complaining unprofessionally, distracting others, and generally
+  counterproductive, address the problem quickly. Disgruntled employees
+  are like a cancer in an integration because people are already
+  sensitive. Having someone walking the halls with a bad attitude helps
+  no one. These are typically people who are on their way out, anyway,
+  and if that is actually the case, my recommendation is to execute the
+  separation as soon as allowed by your HR guidelines.
+
+### Setting up an IMO
+
+The best IMO for your integration is one that might do the following:
+
+* Establish a formal structure with clear roles and responsibilities
+* Leverage the acquiring and acquired company personnel
+* Report to a C-level executive
+* Have a method established to manage integration information, such as
+  project management software SharePoint or Basecamp.
+
+Key reporting elements can include the following:
+
+* The IMO may report to C-suite (typically COO)
+* The IMO may include a divisional sponsor if one part of the company is
+  heavily involved in the integration (but this is not mandatory)
+* An IMO team leader, who may be the executive in charge of the IMO (for
+  whom a typical title is vice president IMO)
+* An IMO support team, which may include a mix of dedicated staffers,
+  consulting resources, and administrative supporting staff.
+* Functional  integration team leaders (i.e. HR, IT, Legal, etc.)
+
+*Functional leads are essential to a smooth integration*, and making sure
+they understand their roles and responsibilities is critical.
+
+### Setting up an Integration Project Charter
+
+A simple document that clearly outlines the who, what, and how elements
+of an integration and to gain commitments from resource owners in
+advance.
+
+Having a charter forces you to have tough discussions before integration
+activities heat up, so you can resolve difficult conversations in
+advance.
+
+``` TODO
+Use the template provided on Page 83 to create a Project Charter. There
+should be one Project Charter for every project where we sign a LOI.
+```
+
+The Project Charter should be reviewed and signed by the project
+sponsor, IMO participants, and functional resource owners.
+
+### Setting up an Integration Governance Structure
+
+| Initial Plan Type of Changes to Plan | Project Sponsor (Executive & Support) | Integration Management Office | Newco Functional Resource Owner | Newco Functional Resource | Acquired Company Resources |
+| -- | -- | -- | -- | -- | -- |
+| Integration Project Charter | A/R | R | C | C | |
+| Integration Project Plan Baseline | A/R | R | C | R | C |
+| Integration Project Plan Baseline Changes | A/R | R | C | R | C |
+| Communication Plan | A/R | R | C | R | C |
+| Snergy Initiative Baseline Changes | A/R | R | C | R | C |
+| Issue Resolution | A/R | R | R | R | C |
+
+### Chapter Checklist
+
+Keep these things on your integration checklist:
+
+* Verify your integration type
+* Establish your IMO structure and reporting guidelines
+* Establish formalized IMO roles and responsibilities
+* Create job descriptions for functional resource commitments
+* Establish your integration charter
+* Make sure you have a governance structure for your IMO
+
+## Chapter 8 - Executing Your Integration Plan
+
 
