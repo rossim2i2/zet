@@ -762,6 +762,60 @@ Use the template provided on Page 83 to create a Project Charter. There
 should be one Project Charter for every project where we sign a LOI.
 ```
 
+Checklist for Creating an Integration Project Charter:
+
+1. Project title and description, including details on the integration
+   of Company ABC into Company XYZ (referred to as Project A in this
+   list).
+1. Integration Project A purpose, including information on the business
+   needs, project justifications, and alignments with strategic plan
+1. Integration Project A scope, including planning and management of the
+   short-term initiatives required to integrate the merged or acquired
+   entity. The scope can be changed through approval of the project
+   sponsor and the IMO. (*It is recommended that this line be included
+   to prevent the pile-on of operational projects that individual
+   stakeholders may like to add to the scope.*)
+1. Company XYZ participants for Project A
+1. IMO participants for Project A
+1. IMO responsibility and authority guidelines, including an outline of
+   primary responsibilities of the IMO relative to the project. For
+   example:
+   * Is the IMO responsible for coordinating a master integration
+     schedule and delivery dates for functional plans for Project A?
+   * What is the IMO's central decision-making authority for Project A?
+1. Integration Project A schedule, including pre-closing to first 100
+   days and keeping track of transitioning outstanding items to a
+   thinner end-state management process.
+1. Integration resources. For example:
+   * IMO and project manager roles and stakeholder communication
+   * Integration team functions and organizational charts, including
+     resource commitments and participation levels.
+1. Known stakeholder requirements, including project sponsors,
+   functional managers and employees at both the acquired and acquiring
+   companies, integration team members and their managers, as well as
+   customers, investors, and stakeholders in the community.
+1. Functional resources requirements and core responsibilities,
+   including the following:
+   * Serving as a member of the IMO for division integrations for 60 to
+     90 days, on average (time commitment will vary by integration).
+   * Developing track and reporting functional work-plan progress and
+     issues to the IMO.
+   * Ensuring completion and adherence to the scope identified in the
+     integration project charter.
+   * Planning and coordinating overall activities for their specific
+     function.
+   * Participating in the IMO integration planning process and using IMO
+     tools for tracking and communicating information regarding
+     integration activities.
+   * Ensuring appropriate links to other functional leaders or
+     executives to minimize overlap and to foster efficient coordination
+     among functions.
+1. Organizational, environmental, and internal and external assumptions
+   and constraints - including deal terms that may affect schedule,
+   scope, or cost - and resource limitations (e.g., ability, quantity)
+   that need to be factored into the plan
+1. Integration budget management considerations.
+
 The Project Charter should be reviewed and signed by the project
 sponsor, IMO participants, and functional resource owners.
 
