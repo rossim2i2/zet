@@ -843,4 +843,168 @@ Keep these things on your integration checklist:
 
 ## Chapter 8 - Executing Your Integration Plan
 
+Before this phase begins, ensure you have completed:
+
+* Collecting and reviewing data documentation of both the acquiring and
+  acquired companies
+* Creating and approving the integration project charter for your
+  integration plan, including the IMO setup.
+* Formulating the integration team's organizational structure as well as
+  its members' roles and responsibilities
+
+Now it is time to work on:
+
+* Your initial integration project plans
+* Your communication plan
+* Your synergy initiative plan
+
+### Functional Work-Plan Elements
+
+* Initial Integration Project Plan
+  * Inputs
+    * Integration Project Charter
+    * Due Diligence Data
+    * Legacy functional work plans
+  * Outputs
+    * Draft functional work plans
+    * Initial draft of issue log
+* Initial Communication Plan
+  * Inputs
+    * Stakeholder analysis
+    * Legacy communication products
+  * Outputs
+    * Initial Communication Plan
+    * Day 0 Communications
+    * Focus on first 30 days
+* Initial Synergy Initiative Plan
+  * Inputs
+    * Anticipated deal benefit target opportunities (typically available
+      with executive approval package for deal)
+  * Outputs
+    * Initial Synergy Benefit Plan
+    * Opportunities requiring further business case analysis and
+      planning
+
+Use a template/tool that your organization is familiar with. Important
+items to include in your plan are the following:
+
+* A description of the initiative
+* Status colors, such as using green, yellow, and red to note where a
+  particular part of a project is in terms of the process
+* A list of the accountable owners, showing who is responsible for
+  completing particular parts of the projects withing each business
+  function
+* A list of integration leaders or contacts. Depending on the scope of
+  a particular part of an organization's involvement, this list may
+  assign an individual to manage and be responsible for the status of a
+  particular part of the project portfolio within that function
+* A targeted completion date
+* Dependencies and other team members involved in working on particular
+  parts of the integration plan
+* Any notes, like those maintained on a weekly basis to provide a view
+  of current status and issues and to facilitate cross-functional
+  collaborations.
+* Some integration plans may require detail on costs as well (sometimes
+  called costs to achieve). These are the costs associated specifically
+  with an integration work stream (e.g., closing a facility).
+
+### Integration Work Streams
+
+What is an integration work stream? At the highest level, they can
+include the following:
+
+* The projects or initiatives that might help you to achieve savings and
+  benefits from an integration (e.g., better contracting and labor
+  reduction due to duplication of functions).
+* The functions that can be integrated to make managing parts of your
+  plan easier so you have just one policy and process to oversee (e.g.,
+  integrating employee discipline, HR, financial assistance policies,
+  and payroll cycles)
+* Strategic  alignments and value (e.g., branding, marketing, system
+  measurement, and reporting components)
+* Any are where two versions of a similar process, policy, or specific
+  way of doing business might cause delays or disruptions and limit
+  productivity when integrating the two companies
+
+It is important to prioritize work streams:
+
+High
+* Projects or initiatives that will achieve savings and benefits from the
+  integration
+* Any areas where maintaining 2 versions of a similar, process, policy,
+  or specific way of doing business will cause disruption and slow our
+  evolution to the new company
+
+Medium
+* Function that will have to be integrated to make managing easier and
+  to have just one policy and process (i.e., employee discipline
+  policies, payroll cycles, HR policies, financial assistance policies)
+* Any work stream that has strategic alignment and value (i.e.,
+  branding, marketing, system measurement, and reporting)
+
+Low
+* Anything that doesn't fit into the high or medium categories
+* Any work stream longer than 12 months that has no significant HR,
+  service level, or operations disruption impacts
+
+### Functional Work-Plan Quality
+
+HR Example:
+
+| Status | Initiative | Owner | Targeted Completion | Comments |
+| --- | --- | --- | --- | --- |
+| C | Finalize Joe M. consultant agreement | | Completed |
+| C | Terminate stock option agreements for Keith R. | | Completed |
+| C | New Offer Letters: APA | | Completed |
+| C | HR Integration Strategy | | Completed |
+
+The quality and degree of detail in functional work plans can vary
+considerably among submissions, dictated by the skills and available
+time of the functional resource who is assigned to the IMO.
+
+**Important Tip:** If you are unsatisfied with the level of detail of a
+functional work plan; work directly with the owner to layer in the
+necessary details and input rather than sending the plan back to the
+owners for reworking. A little understanding at the outset goes a long
+way, especially if your integration will last for several months.
+
+To be included in the functional work plan:
+
+* Project Timing
+  * Is the starting date too late?
+  * Are the durations too long?
+  * Are the end dates undefined?
+* Project Details
+  * If there seems to be detail lacking in the integration projects, it
+    is best to pause and get the details prior to locking the plans
+    down.
+* Cross-Functional Dependencies
+* Organizational Dependencies
+  * Decision rights
+  * Organizational structures
+  * Staff reductions
+  * Cultural integration
+
+### Functions Requiring Extra Attention
+
+* HR
+* IT
+* Finance
+* Corporate Governance
+* Marketing
+* Facilities
+* Legal and insurance
+* Operations
+
+### Chapter Checklist
+
+Key areas to focus on:
+
+* Define what you expect to be included in each functional work stream
+* Clearly define the timing parameters for integration works streams
+* Identify cross-functional dependencies
+* Pay careful attention to HR, Finance, and IT work streams
+
+## Planing Your Integration's End State
+
 
