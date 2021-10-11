@@ -1149,4 +1149,79 @@ It should include:
 | Community | | | | | | |
 | Other | | | | | | |
 
+**Sample Communication Plan Saved in Folder**
+
+### Don't Just Wing It: Preparing for Employee Day One
+
+Acquired employees are nervous, suspicious, and anxious. This distracts
+them from their day to day work. A smooth employee day one is possible
+if you:
+
+* Have the right people present. Don't send a middle manager to address
+  everyone; make sure the leaders for key functions are present and, if
+  possible, set up a webcast to have your CEO address the employees in
+  real time.
+* Script the entire first day
+* Have a plan for continued follow-up ready and in place so you don't
+  create a "one and done" communication event (in which the employees
+  are treated to a big day one event that soon fades and find them
+  clamoring for more information).
+* Collect questions and create a rolling FAQ log, a list of frequently
+  asked questions with answers that can be updated each week as new
+  questions are asked. This way you have a resource you can send people
+  who need answers, or you can direct them to a shared site where the
+  FAQ documents can always be found.
+
+### The Risk of Poor Communications
+
+* Culture War
+* Customer defections
+* Rogue planning efforts
+* Stalled productivity
+* Unexpected costs
+* Poor morale
+
+### A Proper Communication Process
+
+A good communication process should include the following:
+
+* Ensuring that the CMP guiding principles and objectives are in force
+  and that complete and consistent messages are delivered.
+* Collaborating with functions on the day 0 content preparation schedule
+  (the IMO may ghostwrite communications as needed)
+* Collaborating with HR and the project sponsor to finalize day 0
+  content and materials
+* Doing a day 0 and employee day 1 communication readiness review (e.g.,
+  content ready, message order, delivery vehicle, messengers or proxies,
+  confirmations).
+* Receiving status updates through the IMO weekly process when
+  communication has taken place in each function and by executives
+* Updating the executive team
+* Coordinating tactical responses to any urgent questions that may come
+  out of meetings and feedback channels
+  
+** CMP High Level Activities Saved in Folder**
+
+### Roles, Responsibilities, and Target Audiences
+
+| | Role | Accountable For |
+| --- | --- | --- |
+| IMO | Compiles master CMP schedule | Collecting, monitoring progress, expediting completion |
+| Functional Resource Owner | Provides key messages | Ensuring functional resource exectes CMP deliverables |
+| Functional Resource/Lead | Drafts and approves communications | Delivery of all stakeholder communications |
+| Acquired Company Functional Resource | May help with collecting and aggregating employee and customer/supplier feedback | TBD (depends on functional resource) |
+
+### Chapter Checklist
+
+Keep in mind the following:
+
+* Clearly outline communication plan objectives
+* Establish a communication matrix and tailor key messages for each
+  audience
+* Plan communication message release dates for at least 90 days
+
+##  Chapter 11 - Cultural Integration and Assessment
+
+
+
 
