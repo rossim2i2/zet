@@ -1007,4 +1007,90 @@ Key areas to focus on:
 
 ## Planing Your Integration's End State
 
+What is the integration end date? The recommendation for most
+integration activities is 90 to 120 days. 
+
+The end state can be defined as:
+
+* The point in the integration at which most of the planned integration
+  activities are accomplished
+* The transition point, when the IMO process can be ramped down and
+  dedicated IMO personnel scaled back or redeployed
+* The point at which the remaining open integration work streams and
+  issues can be transitioned to functional teams
+
+### How to Know when an Integration is Finished
+
+Focus on the highest-priority areas for your integration and work with
+your assigned functional leaders to map out the following for a
+particular project by a specified date:
+
+* What is the desired experience for the employees and other internal
+  stakeholders for this integration project? For example, all employees
+  will have a commonly formatted e-mail address, all employees will have
+  access to the common intranet site, and all legacy intranet sites will
+  be "sunseted"
+* What is the desired end state for our customers? For example, all
+  customers will have access to the full array of newco products and
+  services, and pricing will be uniform throughout our distribution
+  footprint.
+* What is the desired end state for the community? For example, our
+  legacy community outreach and charitable programs will be
+  consolidated, and we will speak to the communities we operate it in
+  the unified voice of our new company.
+* What is the desired end state for marketing? For example, we will
+  market under our newco brand name and logo in all the markets we
+  serve.
+
+### The Typical Process: Roles, Responsibilities, Tracking, and Finishing Well
+
+At the conclusion of the IMO oversight of the integration management
+process, outstanding work-plan elements should be collected, organized
+by function, and formally transferred to that function.
+
+The IMO should facilitate a weekly end state call with all functions for
+30 days following day 100. At day 130, any remaining end state issues
+are formally documented, and IMO involvement concludes.
+
+Pay attention to end state work streams and make sure they are handed off
+so the new owner has the following:
+
+* Documentation of deadlines and deliverables associated with the
+  remaining open items.
+* Access to all documentation on the project
+* A list of all contacts and stakeholders involved in the project
+* A full understanding of what has to be done, by when and by whom. Most
+  important, make sure the new owner has an understanding of the
+  negative implications of the project getting delayed.
+
+*If the end state hand offs are not processed properly, guess who
+typically gets the blame? The IMO!*
+
+End State Work Plan Example
+
+| Description | Role | Accountable for |
+| --- | --- | --- |
+| Integration Manaement Office | Facilies weekly calls and consolidates reporting | Collecting, monitorin progress, expediting completion |
+| Functional Resource Owner | Provides functional resource for end state tracking | Ensuring functional resource remains engaged thru end state issue completion |
+| Functional Resource/Lead | Monitoring and reporting on end state issue progress and participating in weekly calls | End state issue resolution |
+| Acquired Company Functional Resources | May be involved in end state resolution | Assiting functional owner with end state issue resolution |
+
+### Chapter Checklist
+
+A few tips:
+
+* Make sure each initiative is handed off with all previous activity
+  (e.g., decks, spreadsheets), so the new organization has all of the
+  historical artifacts it needs
+* If necessary, articulate end state scenario for high-priority projects
+* Meet with the senior leadership of any functions receiving end state
+  issues, to review, discuss, and recommend action and to confirm the
+  official hand off
+* Provide the functional personnel with any contact information for the
+  integration team in case there are questions down the road that need
+  clarifications
+
+## Chapter 10 - Effective Communication Planning
+
+
 
