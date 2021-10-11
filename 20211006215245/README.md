@@ -1092,5 +1092,61 @@ A few tips:
 
 ## Chapter 10 - Effective Communication Planning
 
+IMOs struggle with communication the most due to:
+
+* Information itself is closely guarded or unavailable, so meaningful
+  content becomes hared to get in the first place.
+* Senior executives do not always buy into sound or frequent
+  communication planning, and they disregard pleas for meaningful
+  content and news
+* Communication is always great when the deal closes and on employee day
+  one, but it typically will quickly fade after that
+
+### Communication Planning Objectives
+
+* Define what the employees from both organizations can expect during
+  the integration process
+* Ensure that the employees understand the integration goals and
+  processes
+* Provide the employees with an understanding of the new company's
+  organizational structure and operational goals
+* Reinforce the acquiring company's executives' high level of commitment
+  to the integration
+* Ensure that the IMO is engaged in all aspects of the integration
+  process with ongoing visits to acquired-company locations
+* Put safeguards in place to improve the speed of acceptance for change,
+  as documented in the employee survey results (Chapter 15)
+
+### Guiding Principals for an Effective Communication Plan
+
+* Frequency, frequency, frequency - err on the side of over communicating
+* Honesty
+* Specificity of messaging
+* Attention to the feedback
+* Personalized messages
+* Authoritative communications
+
+### Establishing a Communication Matrix
+
+It should include:
+
+* Audience
+* Objectives
+* Key Messages
+* Message Vehicles
+* Timing and Frequency
+* Ownership
+* Draft Responsibility
+
+*Communication Matrix Example*
+
+| Audience | Objectives (Why) | Key Message | Vehicles (How) | Timing/Frequency | Ownership (From Whom) | Draft Responsibility |
+| --- | --- | --- | --- | --- | --- | --- |
+| Employees | | | | | | |
+| Customers | | | | | | |
+| Suppliers | | | | | | |
+| Shareholders/Investors | | | | | | |
+| Community | | | | | | |
+| Other | | | | | | |
 
 
