@@ -1319,4 +1319,29 @@ Include the following:
 
 ## Chapter 12 - The Talent Assessment Process
 
+It is typically the people you want to keep whom  you are most at risk
+of losing. *The most talented employees are the ones who have the most
+options* and will likely have headhunters and recruiters reaching out to
+them.
+
+### Talent Assessment Guiding Principles
+
+
+### Talent Assessment Objectives
+
+* Identifying key talent from the acquired subsidiary employee base
+* Facilitating efficient background and performance verification
+* Creating a consistent evaluation process
+
+### Chapter Checklist
+
+Include the following:
+
+* Establish specific objectives and guiding principles for talent
+  assessment prior to starting any work in this area
+* Create tools and templates in conjunction with HR to ensure
+  consistency
+
+## Chapter 13 - Synergy Program Management
+
 
