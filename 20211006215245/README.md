@@ -1222,6 +1222,101 @@ Keep in mind the following:
 
 ##  Chapter 11 - Cultural Integration and Assessment
 
+Cultural clashes are bound to occur on some level with any integration,
+but if left to fester, they can become a cancer that destroys morale and
+productivity and can adversely affect business results.
 
+### Managing Cultural Integration Activities
+
+Everything covered here should be undertaken in close partnership with
+HR. 
+
+Some guiding principles about culture assessment:
+
+* Cultural assessment tools should be used only when considering a
+  substantial operational integration
+* Cultural assessments inform decision making for IMO planning and need
+  to be completed prior to day 0
+
+Cultural assessment objectives can include the following:
+
+* Factoring human due diligence into integration planning
+* Mitigating the adverse effects of cultural dissonance wherever
+  possible
+* Prioritizing issues that may require extra effort and including them
+  in HR and other functional work plans
+* Assessing cultural issues early and following up update your
+  assessments once the integration work is well underway
+
+Benefits of a cultural due diligence process can include:
+
+* Raising sensitivity and awareness to issues early so that they can be
+  proactively managed during integration
+* Help in mitigating the effects of taking something away, when
+  necessary (e.g., when acquired employees lose a benefit, perk, or
+  compensation element).
+* Stimulating faster resolution of key disagreements that are bogging
+  down integration and/or creating organizational dysfunction
+
+Some specific IMO duties include:
+
+* Collaborating with division management and corporate HR functions
+  before day 0 to determine the need for a cultural assessment process.
+  Then, if cultural assessment is needed, the IMO ensures that the HR
+  functional work plan includes cultural assessment planning and
+  execution specifics
+* Securing external experts on cultural assessment if needed
+* Driving coordination of the documentation and tracking tools required
+  to manage cultural assessment so the IMO may develop tools for
+  functions as needed 
+* Receiving status updates through an IMO weekly process
+* Updating the executive team
+* Coordinating tactical responses to any urgent issues related to
+  cultural assessment
+
+### Culture and Change Management
+
+Be considerate of how change effects employees and pay attention to
+managing that change:
+
+* Addressing the acquired employee's issues quickly
+* Applying defined, clear leadership during change activities
+* Providing extensive communication with acquired employees
+* Ensuring a focus on customers during the change
+* Making touch decisions (quickly and decisively)
+* Creating focused initiatives
+* Managing resistance at every level
+* Addressing issues quickly once they arise
+
+Some change-fatigue symptoms to be aware of:
+
+* Are they coming to work late, leaving early, or acting slightly
+  disengaged? Is the disengagement resulting in frequent mistakes?
+* Do they seem resistant to new ideas and uninterested in new
+  initiatives?
+* Do they appear stressed or anxious?
+* Are they missing deadlines and performance goals?
+
+Senior leaders can also show signs of fatigue:
+
+* Are they constantly making requests for change-management
+  communications? This may be a signal that they are trying to fix
+  something over and over again.
+* Do they avoid addressing employees directly or do it so infrequently
+  that it's ineffective?
+* Do they blame employees for lack of engagement?
+* Are they openly showing frustration and want a return to normal or
+  business as usual?
+
+### Chapter Checklist
+
+Include the following:
+
+* Establishing cultural integration objectives and guiding principles
+* Seeking outside help for cultural integration issues when necessary
+* Addressing change-management issues and learning how to recognize the
+  signs of change fatigue in your organization
+
+## Chapter 12 - The Talent Assessment Process
 
 
