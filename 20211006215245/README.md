@@ -1344,4 +1344,156 @@ Include the following:
 
 ## Chapter 13 - Synergy Program Management
 
+*IMOs are seldom responsible for generating original synergy projections,
+but they are almost always involved in helping to manage synergy program
+realizations.*
+
+Synergies result from the following opportunities:
+
+* Increased scale of the combined companies
+* Labor costs (internal and third-party) reductions as a result of
+  overlapping functions, efficiencies of scale, or process improvement
+  from the adoption of best practices from both legacy companies
+* Elimination of overlapping and redundant spending, including supplier
+  spending (e.g., marketing costs, warehousing, shipping, and IT
+  services)
+* Cost avoidance for planned upgrades (e.g., by increasing utilization
+  of the combined capabilities of the two companies, like warehouse
+  expansion plans)
+* Cross-selling or up-selling opportunities
+
+Examples that are not synergies:
+
+* Volume-driven variances without the above criteria (e.g., lower sales
+  driving lower supply costs)
+* Operating improvements that would have occurred regardless of the
+  acquisition integration
+
+50-70% of mergers fail to achieve their projected synergy forecasts.
+
+### Effectively Managing Synergies
+
+How the IMO should support synergy tracking and objectives:
+
+* Provide the processes and tools for achieving the planned synergy
+  benefits
+* Identify the participants in the process and their roles and
+  responsibilities
+* Capture the synergy opportunity concepts that were identified before
+  the closing
+* Work with the business division and acquired company's management
+  leaders to evolve concepts into actionable plans, including the
+  following:
+  * Approach
+  * Schedule
+  * Accountable owner
+  * Defined and scheduled benefit measurement approaches
+
+The owner, the person or function responsible for the synergy, needs to
+be engaged in the definition of approach, schedule, benefit measurement
+methodology, investments required, and trade-offs versus other
+opportunity costs and program management.
+
+Guiding principals of effective synergy programs include:
+
+* Assigning accountable owners and then committing to a plan and doing
+  the proper follow-up; otherwise initiatives will be de prioritized
+* Making sure that planned deal benefits that require further analysis
+  by assigned accountable owners in order to achieve buy-ins are reviewed
+  and revisited.
+* Following up on agreements on planned measurement approaches and their
+  timing.
+* Ensuring that initiatives are supported and linked to
+  integration-related projects
+* Motivating through existing employee performance assessment and
+  incentives within the organization whenever possible. This includes
+  special incentives in place when required.
+* Not over measuring or losing focus on key operational measurements
+* Approaching needs to systematically manage changes to the baseline,
+  including additional discover, which may reveal more or less
+  opportunity
+* Shifting benefits and costs between functional owners, if necessary
+* Reevaluating the benefits and costs because of changes in the market
+* Managing cross-functionally to ensure that costs are not simply
+  shifted to other parts of the business
+
+### The IMOs Role in Managing a Synergy Program
+
+The IMO manages the development of individual synergy initiative planes
+by the initiative owners. Duties include the following:
+
+* Planning schedules
+* Integrating components into summary views
+* Driving project-sponsor approvals of baseline plans
+* Facilitating cross-functional negotiations and decisions for synergy
+  initiatives that have a cross-functional opportunity or effect
+* Owning the change-management process and facilitating approvals from
+  project sponsors
+* Receiving synergy initiative updates from owners through a periodic
+  template
+* Updating executive team members on program progress
+
+**See schedule for SMP High-Level Process/Activities**
+
+**See schedule for Synergy Program Management Roles and
+Responsibilities**
+
+### A Typical Synergy Plan
+
+At its most basic level, synergy reporting should include:
+
+*A Periodic (Quarterly or Monthly) Executive Review*
+
+* It summarizes synergy initiative statuses for key initiatives and both
+  on and off track for whole plans.
+* It facilitates plan, issue, and baseline change discussions
+
+*A Master Synergy Plan*
+
+* It provides a macro view of performance versus the overall plan
+* It includes dependencies between project portfolio elements and
+  synergy initiatives
+* It links to initiative templates
+
+*Accountability*
+
+* Each synergy initiative has an accountable owner, and accounting
+  support for that owner periodically updates progress in a template
+* There is on tracking template per initiative
+
+*See schedule for multiple examples related to the above topic*
+
+* Cost to Achieve - any expense incurred as a result of capturing a
+  planned synergy. Need to be included in forecasts for net synergy
+  savings.
+
+### Best Practices
+
+Effective synergy management involves many parties in addition to the IMO
+ 
+* Managing the Hand-off
+* Defining the Undefined
+  * Don't accept responsibility for tracking these synergies until they
+    are better defined and accountability is assigned
+* Delays Almost Always Negatively Affect Synergies
+* Bad News Does Not Get Better with Age
+  * Raise any red flags right away
+* If it Looks Too Good to be True, It Probably Is
+  * *Cross-selling opportunities usually fall into this category*
+  * A few things need to transpire to make this a reality
+    * Salespeople have to be trained to sell the new products
+    * Commission systems have to be updated to make sure the salespeople
+      get paid for selling the new products
+    * Marketing has to provide the sales force with the tools to sell an
+      aggregated product portfolio
+
+### Chapter Checklist
+
+* Guiding principles for effective synergy program management
+* The IMO's role in the synergy program management process
+* Tools, templates, and process tips
+* Lessons learned for effective synergy program management
+
+## Chapter 14 - Information Technology Integration
+
 
