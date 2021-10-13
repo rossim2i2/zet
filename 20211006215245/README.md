@@ -1496,4 +1496,112 @@ Effective synergy management involves many parties in addition to the IMO
 
 ## Chapter 14 - Information Technology Integration
 
+IT is usually not given priority during due diligence and integration
+planning, which creates three key challenges:
+
+* The potential savings to result from integrating IT functions may not
+  be as great, or realized as quickly, as set out in the investment
+  thesis
+* Potential operational synergies or savings in the investment thesis
+  that are dependent on IT may not be plausible, as great, or as quickly
+  realized
+* Significant opportunities to realize even greater or quicker savings
+  or synergies than those posited in the investment thesis may go
+  undiscovered or unrealized
+
+### IT's Role Within an Integration
+
+*See schedules uploaded to github*
+
+### Day One Planning
+
+Common and critical day one activities include:
+
+* Conversion to interim or go-forward banking relationships, credit card
+  processing, and payroll processing
+* Consolidation or integration of sales, order entry, and customer
+  support processes
+* Redirection of legacy phone numbers and systems to the interim or
+  go-forward phone system or phone tree
+* Changes in the delivery locations, addresses, and data streams within
+  supply and distribution chains
+* Consolidation or integration of legacy e-mail systems
+* Consolidation of web sites or redirection to interim or go-forward web
+  sites
+* Consolidation or integration of legacy IT help desks
+* Consolidation or integration of privacy, physical security, and
+  information security functions
+
+In addition to being a vertical department and horizontal support
+stream, the IT function will have two primary roles:
+
+1. Completing the IT integration (people, process, and technology) as
+   defined in the IT integration plan
+1. Supporting all of the other integration efforts being undertaken by
+   the enterprise
+
+*Two steps that enterprises should take when forming their IMOs to reduce
+the potential of an integration process going awry as the IT function is
+pulled in conflicting directions over multiple issues.*
+
+1. Segregate responsibility for each of the two primary IT roles during
+   the integration by creating a functional (vertical) IT integration
+   leader as a peer to the other functional (vertical) integration
+   leaders and an It integration entablement leader who reports direly
+   to the IMO team leader or sponsor. When a potential issue such as the
+   example described above arises, the IT integration enablement leader
+   (who may not be an IT executive but should be familiar with the
+   operations of an IT department) will assess the situation and
+   associated risks to the integration effort and either make a binding
+   decision or propose a solution for review and approval by the IMO
+   team leader or sponsor.
+1. Plan to add between one-half and one FTE of contract resources within
+   each major group within the IT function to allow the leaders of those
+   groups to be able to drop everything and engage in the support of
+   situations such as the example described above or any other
+   unexpected complication in the implementation of the integration
+   plan. The ability to mobilize a rapid response team will significantly
+   increase the potential that such events have minimal impact and are
+   addressed both quickly and responsibly.
+
+### The Three Risks
+
+1. Questions about which information systems are to survive often are
+   raised by business integration leaders as a proxy for questions about
+   which operational policies and practices (and therefore leadership
+   roles) will survive. The usual assumption that all things related to
+   the acquiring company (culture, process, leadership) will dominate in
+   the planning and execution of the integration can lead to missed
+   opportunities for savings, synergies, or quicker realization of
+   value. Before making blanket decisions about information systems, it
+   is important to revisit the investment thesis and decide which overall
+   operations approach (including supporting information systems) will
+   yield the best short-term and long-term results.
+1. Even the most dedicated and energized IT functions have limits on
+   their capabilities dictated by its size, composition, and budget.
+   Assumptions by integration leaders elsewhere in the business that "IT
+   can handle it" or "IT will figure it out" when addressing integration
+   challenges are specious and can lead to the failure of critical
+   elements of the overall integration plan. The IT function should
+   always be given the opportunity to estimate the effect on the
+   resources and the budget required to address integration challenges,
+   and integration leadership should be open to increasing the resources
+   or budget available to the IT functions to address them.
+1. IT professionals are uniquely mobile and often can source equivalent
+   positions outside their industry or competency with relative ease,
+   even in a depressed economy. As many IT functions have become
+   gradually leaner, the potential for key-person reliances within IT
+   functions are more numerous, and the loss of a resource, even at a
+   comparatively low level of seniority or rank, can be disastrous.
+
+### Chapter Checklist
+
+* Make sure IT is included as part of due diligence and pre-planning
+  activities
+* Include IT as part of detailed functional day one planning.
+* Ensure that IT is well represented in your IMO in both the IT and in
+  other functions (e.g., HR, finance).
+
+## Chapter 15 - Integration Feedback: Lessons Learned
+
 
