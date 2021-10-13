@@ -1604,4 +1604,193 @@ pulled in conflicting directions over multiple issues.*
 
 ## Chapter 15 - Integration Feedback: Lessons Learned
 
+Getting after-action feedback and data ensures that you will improve and
+optimize your operations.
+
+### Goals and Tools of Lessons Learned
+
+Collecting feedback from all stakeholder groups can include the
+following steps:
+
+* At day 100, initiate a formal process to collect feedback from IMO
+  participants and acquired company employees
+* Distribute an employee survey. It should be developed and administered
+  through HR and implemented after any downsizing or reductions in force
+* Make sure the IMO facilitates a lessons-learned meeting with IMO
+  participants and functional leaders to explore the following
+  questions:
+  * What integration practices, tools, and processes worked well, and
+    why?
+  * What integration practices, tools, and processes need improvement?
+  * What communication vehicles worked well?
+  * Did the stakeholders feel well-informed through all stages of the
+    integration?
+  * Were integration priorities clearly communicated during the
+    integration?
+  * Were success stories highlighted and people recognized?
+
+### Getting Feedback and Making Adjustments
+
+Sometimes you really need to push to solicit feedback as people don't
+really know what to suggest. Here are a few areas where integrations
+tend to fall short.
+
+* Too Much Paperwork
+* Reconciling Integration Work with Your Day Job
+* Working Together
+
+### Collecting Post-Integration Feedback
+
+It is strongly recommended that you partner with your HR leaders to
+develop and implement a survey using whatever methods they recommend to
+ensure adequate participation. Include:
+
+* Senior Management
+* IMO team members
+* Acquiring and acquired employees (or employees from both merged
+  companies)
+* Consultants involved in various stages of due diligence and
+  integration planning and execution
+
+*See Sample Employee Survey*
+
+### Additional Tips
+
+* Lack of Air Cover
+  * It is critical that the IMO report a high-ranking executive,
+    preferably a C-suite executive
+* Under communicating
+* Too Many Outside Consultants, Not Enough Insiders
+* Be a Good Cap *and* a Bad Cop
+* Open Door Policy
+* Avoid Company Politics
+* Do Your Homework
+* Have a Bias for Urgency
+* Don't Try to Solve Everything
+* Dispense with the Politics
+* Be Inspirational and Lead
+
+### Chapter Checklist
+
+* Make adjustments during your integration by collecting feedback and
+  input at regular intervals
+* Create post-integration stakeholder surveys around 100 days
+* Collect and document lessons learned so you can share and let them
+  inform your next integration planning effort
+
+## Chapter 16 - Creating an Integration Playbook
+
+Playbooks are fluid and never complete; they should continually be
+optimized by lessons learned from previous integrations.
+
+### Playbook Contents
+
+**Setup, Planning and Execution**
+
+* *Purpose and scope*. These parts of the playbook help to establish
+  what the official role of your playbook will be to support your
+  organization's integration activity and how the playbook element all
+  fit together. Consider these sections a "playbook 101" overview:
+  * Playbook scope
+  * Relationships between playbook elements
+* *Integration management plan*. These sections detail how to set up an
+  IMO and some suggestions on integration governance:
+  * Organization
+  * Governance
+* *Integration planning processes*. These sections detail the primary
+  integration phases (e.g., pre-planning, execution) and repositories
+  for due diligence checklists and formats for initial integration
+  plans:
+  * Integration phases overview
+  * Collecting planning inputs (due diligence checklist)
+  * Initial integration plan
+* *Execution and monitoring processes*. These parts of the playbook
+  consist of the following:
+  * Integration program management
+  * Program management processes
+
+**Specific Phases and Key Special Needs**
+
+* Integration project closing
+  * End state tracking process
+  * Lessons learned process
+* Communication management plan (CMP)
+  * CMP objectives and guiding principles
+  * CMP processes
+  * CMP matrix: messages and stakeholders
+* Synergy management plan (SMP)
+  * Synergy initiative planning
+  * Synergy initiative process management
+* Culture and talent assessment plan (CTAP)
+  * Culture assessment
+  * Talent assessment
+
+**Playbook Training**
+
+Often overlooked is the fact that an integration playbook is a new tool
+and that anyone using it requires some training. The playbook is
+intended to be not an instruction manual but more of a reference guide
+to speed understanding as well as tool and template development.
+
+### Playbook Elements
+
+* Playbook Purpose
+  * Creating a compilation of integration best practices that can be
+    utilized by company executives. This can save them time so
+    management can focus on driving business results.
+  * Providing flexible and scalable integration tools, templates, and
+    processes that foster integration consistency across all company
+    divisions.
+  * Creating a shared service to help company management with
+    integration activity
+* Playbook Synergy Program Management Goals
+  * Creating clear outlines of synergy and business benefit realizations
+  * Identifying and incorporating short-term synergies into an
+    integration plan
+  * Identifying and transferring long-term synergy targets to new
+    functional owners
+* Operating Results and Productivity
+  * Remembering that no disruption to the acquired business means that
+    productivity remains constant or improves
+  * Outlining operational measurements of the acquired business
+* Organizational Effectiveness and Employee Satisfaction
+  * Creating outlines of established authority chains. Make sure there
+    are no reporting gaps or duplications
+  * Confirming that employees are accepting of change by enacting
+    satisfaction surveys
+  * Continually customizing and optimizing your playbook based on your
+    company's:
+    * Merger type
+    * Industries
+    * Frequency of activity
+    * Organizational design
+    * Specific business goals and objectives
+* Scope
+  * Making sure the integration playbook you are utilizing is approved
+    by company management
+  * Making sure your integration support time frame begins 30 days
+    before closing and averages 90 to 120 days after closing in duration
+  * Making sure your integration playbook supports multiple integration
+    scenarios
+  * Remembering that some integrations may require ad hoc support or
+    augmentation to account for unique integration scenarios and
+    planning needs
+
+Your playbook should be informed by seven primary sources of
+information.
+
+1. Acquisition Strategy
+1. Due diligence Information
+1. Integration Scope
+1. Pre-Closing Planning Process
+1. Post-Closing Planning Process
+1. End State Monitoring
+1. Project Closing
+
+### Applying the Playbook
+
+Everything here has been a guide and will need to be customized based on
+company and needs. An integration playbook is never done; it should be
+considered a living document.
+
 
