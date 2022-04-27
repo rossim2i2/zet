@@ -38,4 +38,6 @@ the repo, commit them to the repo and push them to the repo.
 * [20210723182348](/20210723182348/) Seven Rules of a Great Git Commit Message
 * [20220325124245](/20220325124245/) Switch Local Git Repos to use SSH
 
+Tags:
+
     #linux #localrepo #barerepo #usb #virtualmachine #vm
