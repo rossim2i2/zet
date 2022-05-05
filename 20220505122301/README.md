@@ -40,4 +40,7 @@ PSUseApprovedVerbs  Warning               1    The cmdlet 'eliminate-file' uses 
                                                unapproved verb.
 ```
 
+If the script does not return anything, then it found no issues with the
+code.
+
     #security #scripting #PowerShell
