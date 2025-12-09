@@ -75,6 +75,13 @@ template = "default.md"
 #[group."<NAME>".extra]
 #key = "value"
 
+# Daily notes group
+[group.daily.note]
+# This controls the FILENAME (and folders) for daily notes.
+# Example result: journal/daily/2025/12-December/2025-12-09.md
+filename = "{{format-date now 'journal/daily/%Y/%m-%B/%Y-%m-%d'}}"
+template = "daily.md"
+extension = "md"
 
 # MARKDOWN SETTINGS
 [format.markdown]
@@ -103,7 +110,7 @@ multiword-tags = false
 
 # Default editor used to open notes. When not set, the EDITOR or VISUAL
 # environment variables are used.
-#editor = "vim"
+editor = "nvim"
 
 # Pager used to scroll through long output. If you want to disable paging
 # altogether, set it to an empty string "".
@@ -176,10 +183,10 @@ dead-link = "error"
 #ls = "zk list $@"
 
 # Default flags for an existing command.
-#list = "zk list --quiet $@"
+list = "zk list --quiet $@"
 
 # Edit the last modified note.
-#editlast = "zk edit --limit 1 --sort modified- $@"
+editlast = "zk edit --limit 1 --sort modified- $@"
 
 # Edit the notes selected interactively among the notes created the last two weeks.
 # This alias doesn't take any argument, so we don't use $@.
@@ -192,11 +199,13 @@ dead-link = "error"
 #path = "zk list --quiet --format {{path}} --delimiter , $@"
 
 # Show a random note.
-#lucky = "zk list --quiet --format full --sort random --limit 1"
+lucky = "zk list --quiet --format full --sort random --limit 1"
 
 # Returns the Git history for the notes found with the given arguments.
 # Note the use of a pipe and the location of $@.
 #hist = "zk list --format path --delimiter0 --quiet $@ | xargs -t -0 git log --patch --"
 
 # Edit this configuration file.
-#conf = '$EDITOR "$ZK_NOTEBOOK_DIR/.zk/config.toml"'
+conf = '$EDITOR "$ZK_NOTEBOOK_DIR/.zk/config.toml"'
+daily = "zk new --group daily"
+
